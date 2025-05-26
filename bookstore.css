@@ -338,6 +338,7 @@ nav ul li {
     background-color: #009688;
 }
 
+
 .New_Arrivals {
     background-color: white;
     padding: 30px;
@@ -439,7 +440,6 @@ nav ul li {
 
 .rating-stars i {
     color: #009688;
-    /* لون ذهبي */
     font-size: 18px;
 }
 
@@ -535,10 +535,7 @@ nav ul li {
     margin-top: 400px;
     margin-bottom: 150px;
     margin-left: 160px;
-
     font-size: 25px;
-
-
 }
 
 .blog-section {
