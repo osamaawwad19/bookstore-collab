@@ -223,3 +223,32 @@ nav ul li {
     font-size: 25px;
 
 }
+
+
+.Featured_Books {
+    background-color: white;
+    max-width: 100%;
+    height: auto;
+    padding-left: 50px;
+    margin-top: 0;
+    padding-top: 0;
+
+
+}
+
+.Featured_Books div h1 {
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.scroll-wrapper {
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 30px;
+
+}
+
+.book-container {
+    display: inline-block;
+}
