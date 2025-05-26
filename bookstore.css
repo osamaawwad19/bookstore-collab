@@ -172,3 +172,54 @@ nav ul li {
     font-size: 14px;
     color: #555;
 }
+
+.Aboutus {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 1.5;
+    background-color: white;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    padding-bottom: 70px;
+
+
+}
+
+.aboutus_word {
+    flex: 1;
+    margin-left: 100px;
+}
+
+.aboutus_word h1 {
+    margin: 0;
+    font-size: 80px;
+}
+
+.aboutus_word p {
+    font-size: 14px;
+    line-height: 1.6;
+
+}
+
+.aboutus_img {
+    flex: 1;
+    margin-left: 130px;
+}
+
+.aboutus_img img {
+    max-width: 100%;
+
+}
+
+.btn2 {
+    background-color: #009688;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 25px;
+
+}
