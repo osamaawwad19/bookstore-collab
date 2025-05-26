@@ -338,6 +338,7 @@ nav ul li {
     background-color: #009688;
 }
 
+
 .New_Arrivals {
     background-color: white;
     padding: 30px;
@@ -441,9 +442,8 @@ nav ul li {
     color: #009688;
 
     font-size: 18px;
+
 }
-
-
 
 .reviews {
     text-align: center;
@@ -537,10 +537,7 @@ nav ul li {
     margin-top: 400px;
     margin-bottom: 150px;
     margin-left: 160px;
-
     font-size: 25px;
-
-
 }
 
 .blog-section {
@@ -568,7 +565,6 @@ nav ul li {
     overflow: hidden;
     transition: transform 0.3s ease;
 }
-
 
 .blog-card img {
     width: 100%;
@@ -627,7 +623,6 @@ nav ul li {
     padding: 0;
     margin-bottom: 10px;
     margin-top: 0;
-
 }
 
 .footer-box h3 {
@@ -641,7 +636,6 @@ nav ul li {
     color: #000;
     text-decoration: none;
     margin-bottom: 6px;
-
 }
 
 .footer-box a:hover {
@@ -649,30 +643,25 @@ nav ul li {
 }
 
 .footer-box p {
-
     color: #333;
     font-size: 14px;
     line-height: 1.5;
 }
 
-
 .social-icons {
     display: flex;
     gap: 15px;
-    /* مسافة أفقية بين الأيقونات */
     margin-top: 10px;
 }
 
 .social-icons a {
     color: #000;
     font-size: 18px;
-
 }
 
 .social-icons a:hover {
     color: #009688;
 }
-
 
 .footer-box input[type="email"] {
     padding: 10px;
@@ -707,9 +696,7 @@ nav ul li {
     color: #009688;
 }
 
-
 @media (min-width: 321px) and (max-width: 375px) {
-
     .content h1,
     .aboutus_word h1 {
         font-size: 28px;
@@ -720,9 +707,7 @@ nav ul li {
     }
 }
 
-/* iPhone 6+/7+/8+ و XR و 11 */
 @media (min-width: 376px) and (max-width: 430px) {
-
     .content h1,
     .aboutus_word h1 {
         font-size: 32px;
@@ -734,7 +719,6 @@ nav ul li {
 }
 
 @media (min-width: 360px) and (max-width: 412px) {
-
     .content h1,
     .aboutus_word h1 {
         font-size: 30px;
@@ -745,7 +729,6 @@ nav ul li {
     }
 }
 
-/* Galaxy S21، Note 10، A72 */
 @media (min-width: 413px) and (max-width: 440px) {
     .content h1 {
         font-size: 34px;
