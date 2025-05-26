@@ -412,3 +412,33 @@ nav ul li {
     margin-left: 5px;
     font-size: 13px;
 }
+
+.arrival-button {
+    background-color: white;
+    color: #00bfa5;
+    border: 1px solid #00bfa5;
+    padding: 8px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.arrival-button:hover {
+    background-color: #00bfa5;
+    color: white;
+}
+
+.rating-stars {
+    display: flex;
+    gap: 4px;
+    justify-content: center;
+    /* أو start, left حسب مكانك */
+    align-items: center;
+    margin: 10px 0;
+}
+
+.rating-stars i {
+    color: #009688;
+    /* لون ذهبي */
+    font-size: 18px;
+}
