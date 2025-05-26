@@ -252,3 +252,44 @@ nav ul li {
 .book-container {
     display: inline-block;
 }
+
+.book-card {
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-right: 50px;
+    text-align: center;
+    transition: 0.3s;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.book-card:hover {
+    border: 2px solid #00bfa5;
+    box-shadow: 0 0 10px rgba(0, 191, 165, 0.5);
+}
+
+.book-card img {
+    width: 100%;
+    height: 270px;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.book-card h3 {
+    margin: 10px 0 5px;
+    font-size: 18px;
+}
+
+.book-card .author {
+    color: gray;
+    margin-bottom: 5px;
+}
+
+.book-card .genre {
+    color: #00bfa5;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
